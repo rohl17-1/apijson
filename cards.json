@@ -1,14 +1,7 @@
 [
   {
+    "cta": "Explore agora",
     "imageUrl": "https://i.postimg.cc/PJHV7yxJ/hq720.jpg",
     "link": "https://exemplo.com/page1"
-  },
-  {
-    "imageUrl": "https://i.postimg.cc/FHq9gWDq/hq720.jpg",
-    "link": "https://exemplo.com/page2"
-  },
-  {
-    "imageUrl": "https://i.postimg.cc/vBF01h5h/maxresdefault.jpg",
-    "link": "https://exemplo.com/page3"
   }
 ]
